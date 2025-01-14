@@ -23,13 +23,13 @@ Grades, as they are traditionally thought of, are inherently imprecise and don't
 -   Grades create a preference for the easiest task. In other words, students tend to do what they need to get a certain grade, but no more.
 -   Grades tend to reduce the quality of student thinking. The moment we ask \`\`**how** am I doing?'' we lose track of **what** we're doing.
 
-While I am required to submit a grade for each student at the end of the semester -- I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning. 
+While I am required to submit a grade for each student at the end of the semester -- I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.
 
 ## Learning Targets
 
-We will rely extensively on qualitative rather than quantitative feedback to assess your progress in the course.  Your understanding of the material will be assessed primarily through demonstrating proficiency on the learning targets listed in @sec-targets.
+We will rely extensively on qualitative rather than quantitative feedback to assess your progress in the course. Your understanding of the material will be assessed primarily through demonstrating proficiency on the learning targets listed in @sec-targets.
 
-Although the posted learning targets point to fairly specific topics, there are still a wide array of problems that might demonstrate proficiency.  For this reason, you should aim to demonstrate proficiency **at least twice** on each target by the end of the semester.  I will keep track (and I encourage you to keep track as well) every time to demonstrate proficient work.
+Although the posted learning targets point to fairly specific topics, there are still a wide array of problems that might demonstrate proficiency. For this reason, you should aim to demonstrate proficiency **at least twice** on each target by the end of the semester. I will keep track (and I encourage you to keep track as well) every time to demonstrate proficient work.
 
 ## Engagement
 
@@ -47,99 +47,49 @@ Here are some ways that you can engage with the class:
 
 ## Grade Guidelines
 
-In thinking about course grades, I find it helpful to begin with *qualitative* descriptions of what particular grades might signify.  We can then think about ways you might demonstrate learning that aligns with these descriptions.
+In thinking about course grades, I find it helpful to begin with *qualitative* descriptions of what particular grades might signify. We can then think about ways you might demonstrate learning that aligns with these descriptions.
 
-:::callout
+::: callout
+
 A
+
 :   This grade generally indicates a deep understanding of the material such that you could apply the material in unfamiliar or especially complex situations. Evidence of deep understanding might include
 
-- demonstration of proficiency on all of the content learning targets at least twice.
-- completion of all AEPs in terms of both mathematical content as well as effective communication
+-   demonstration of proficiency on all (or almost all) of the content learning targets at least twice.
+-   completion of all AEPs in terms of both mathematical content as well as effective communication
 
-You also have demonstrated significant engagement of the course.
 :::
 
-:::callout
+::: callout
+
 B
+
 :   This grade indicates good work that is eminently satisfactory. You should be able to use and extend this knowledge in many situations although you might have difficulty with particularly challenging or unfamiliar problems. Evidence of this learning might include
 
-- demonstration of proficiency on most of the learning targets at least twice
-- completion of most of the AEPs including both mathematical content as well as effective communication
+-   demonstration of proficiency on most (more than half) of the learning targets at least twice
+-   completion of most of the AEPs including both mathematical content as well as effective communication
 :::
 
-:::callout
+::: callout
+
 C
+
 :   This grade indicates competent work that demonstrates a basic understanding of the course material. You should be able to handle most of the more straightforward problems encountered but might struggle with more challenging problems. Evidence of a C might include:
 
-- Proficiency on some of the learning targets at least twice
-- Completion of some the AEPs
+-   Proficiency on some of the learning targets at least twice; or most of the learning targets at least once.
+-   Completion of some the AEPs
 :::
 
-
-:::callout
+::: callout
 
 D/F
+
 :   These grades represent a fundamental breakdown of expectations. A D represents a meaningful but unsuccessful attempt at earning a C or above. An F represents such a severe lack of engagement, effort, or understanding that there is no evidence of meaningful progress.
 :::
 
-
-## Engagement
-
-While your course grade should be based primarily on your **understanding** of course content and not on course engagement, in my experience these typically go hand in hand. So while engagement in the course is not itself evidence of understanding, it does usually help us achieve that goal.
-
-Here are some ways that you can engage with the class:
-
--   Attend class regularly
--   Complete assigned problems before class so you're prepared to engage with that day's material
--   Ask questions - either in class or in office hours.
--   Actively participate in class discussions and group work. Note that this can mean sharing your work but it can also mean asking questions or helping to facilitate the discussion.
--   Complete weekly homework reports
--   Complete periodic check-ins
--   Complete homework and AEPs on time -- and asking for help when needed
-
-
-A modifier to your grade to acccount for engagement.
+A modifier may be added to your grade to acccount for engagement:
 
 -   A + modifier might be added to your grade if you've met the standards for a particular grade and you've engaged in the course in particularly significant ways.
 
--   A - modifier might be added to your grade if you've met the standard for a particular grade but lack of engagement has prevented your from doing more in the course. 
+-   A - modifier might be added to your grade if you've met the standard for particular grade but have engaged minimally in the course.
 
-
-
-Your goal is to demonstrate proficiency on most of the learning targets -- this is accomplished by demonstrating proficient level understanding \textbf{at least twice} by the end of the semester. I will keep track (and I encourage you to keep track as well) every time you demonstrate Proficient level work.
-
-\begin{description}[topsep=0in]
-\item [A] This grade indicates a deep understanding of the material and an ability to apply the material to  unfamiliar situations.  Evidence of an A might include:
-\begin{itemize}[itemsep=0in, topsep=0in]
-\item Demonstration of proficiency on all of the content learning targets.
-\item Demonstration of significant understanding on all of the AEPs.
-\item Demonstration of effective mathematical communication on all of the AEPs.
-\end{itemize}
-
-\item [B] This grade indicates good work that is eminently satisfactory.  You should be able to use and extend this knowledge in many situations.  Evidence of a B might include:
-\begin{itemize}[itemsep=0in, topsep=0in]
-\item Demonstration of proficiency on most of the learning targets. 
-\item Demonstration of a satisfactory understanding on most of the AEPs.
-\item Demonstration of effective mathematical communication on most of the AEPs.
-\end{itemize}
-
-\item [C] This grade indicates competent work that  
-demonstrates an acceptable level of knowledge relevant to the course.   
-You should be able to continue learning in this field of study.  Evidence of a C might include:
-\begin{itemize}[itemsep=0in, topsep=0in]
-\item Demonstration of proficiency on at least half of the content learning targets.
-\item Demonstration of satisfactory understanding on some of the AEPs.
-\item Demonstration of effective mathematical communication on some of the AEPs.
-\end{itemize}
-
-\item [D/F] A grade of D represents meaningful but unsuccessful attempt at earning a C or above.  This is minimally acceptable work.  You would likely struggle to continue study in this field.  An F represents a lack of engagement, effort, or understanding such that there is no evidence of meaningful progress.
-
-\end{description}
-
-\subsection*{Partial Grades}
-
-A grade modifier may be added to your base grade as follows.
-
-A \textbf{minus} may be added to the base grade if all but one of the guidelines for the base grade are met \textbf{and} significant progress towards completion is evident (e.g. proficiency has been demonstrated only once instead of twice).
-
-A \textbf{plus} will be added to the base grade if all requirements for the base grade are met \textbf{and} two of three meet the requirements for a higher grade.

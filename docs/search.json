@@ -125,7 +125,7 @@
     "href": "about.html",
     "title": "Course Content",
     "section": "",
-    "text": "Learning Targets\nMTH :: Mathematical Practice\nDE :: Basic Concepts of Differential Equations\nFO :: Solving First-Order Equations\nSE :: Systems of Equations\nSO :: Second-Order Equations\nLT :: Laplace Transform Methods",
+    "text": "Learning Targets\nMTH 321 introduces basic techniques and theory of ordinary differential equations, especially as related to problems in the physical sciences. It is aimed at math, engineering, and science majors that have taken the first two semesters of calculus.\nSpecific topics will include\nOther topics may be covered as time allows.\nIn addition to these specific mathematical topics, our learning goals also include:\nCertain affective traits (i.e., dispositions and habits that are useful for all learners, regardless of topic) are also valued, such as persistence and growth mindset, and the development of these qualities will be fostered by the course.\nMTH :: Mathematical Practice\nDE :: Basic Concepts of Differential Equations\nFO :: Solving First-Order Equations\nSE :: Systems of Equations\nSO :: Second-Order Equations\nLT :: Laplace Transform Methods",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Content</span>"
@@ -147,7 +147,7 @@
     "href": "structure.html",
     "title": "5  Course Structure",
     "section": "",
-    "text": "5.1 Attendence\nSince we will be doing much of our learning through collaborative in-class activities, it’s important that you to come to class prepared to engage and participate. That said, I also recognize that for many reasons, this will not always be possible. If you need to miss class just let me know – there is no penalty apart from missing out on that day’s activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.\nPoem 013: Did I Miss Anything? by Tom Wyman\nI will do my best to post on Moodle a short summary of what we do in class, so if you do miss class, you should look there to see what we did that day. You may also find it helpful if you’re able to check-in with a classmate to see what we covered. Finally, I’m always available in office hours to discuss anything you missed.",
+    "text": "5.1 Attendence\nIn broad strokes, this course is designed to engage you with rich problems in a collaborative setting. In class, we will often work in small groups on activities designed to engage and practice working with the course content. Outside of class, you will have assignments to practice what we’ve learned and to stretch your problem solving skills. You will also be asked to reflect on your learning – mathematics is as much about the problem solving process as it is about finding a correct answer and so reflecting and writing about your work is an important part of what we’ll do.\nSince we will be doing much of our learning through collaborative in-class activities, it’s important that you to come to class prepared to engage and participate. That said, I also recognize that for many reasons, this will not always be possible. If you need to miss class just let me know – there is no penalty apart from missing out on that day’s activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.\nPoem 013: Did I Miss Anything? by Tom Wyman\nI will do my best to post on Moodle a short summary of what we do in class, so if you do miss class, you should look there to see what we did that day. You may also find it helpful if you’re able to check-in with a classmate to see what we covered. Finally, I’m always available in office hours to discuss anything you missed.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Course Structure</span>"
@@ -213,7 +213,7 @@
     "href": "grades.html",
     "title": "6  Grades",
     "section": "",
-    "text": "6.1 Learning Targets\nWe will rely extensively on qualitative rather than quantitative feedback to assess your progress in the course. Your understanding of the material will be assessed primarily through demonstrating proficiency on the learning targets listed in Section 4.1.\nAlthough the posted learning targets point to fairly specific topics, there are still a wide array of problems that might demonstrate proficiency. For this reason, you should aim to demonstrate proficiency at least twice on each target by the end of the semester. I will keep track (and I encourage you to keep track as well) every time to demonstrate proficient work.",
+    "text": "6.1 Learning Targets\nGrades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research suggests that grades undermine the learning process in several ways:\nWhile I am required to submit a grade for each student at the end of the semester – I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.\nWe will rely extensively on qualitative rather than quantitative feedback to assess your progress in the course. Your understanding of the material will be assessed primarily through demonstrating proficiency on the learning targets listed in Section 4.1.\nAlthough the posted learning targets point to fairly specific topics, there are still a wide array of problems that might demonstrate proficiency. For this reason, you should aim to demonstrate proficiency at least twice on each target by the end of the semester. I will keep track (and I encourage you to keep track as well) every time to demonstrate proficient work.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Grades</span>"
@@ -257,7 +257,7 @@
     "href": "writing.html",
     "title": "7  Writing Mathematics",
     "section": "",
-    "text": "7.1 General Guidelines\nThe following are some general suggestions for effective communication in mathematics.",
+    "text": "7.1 General Guidelines\nOne of the goals of this course is to hone your skill in communicating complex technical ideas, particularly in writing. Your aim is not simply to come up with a correct solution, but you must also convince someone else that you know what you’re talking about!\nA good solution is one that effectively communicates not only the mathematical ideas needed, but an explanation of how you got there. Like any piece of writing, you should expect to write, proofread, and edit multiple drafts of your work.\nThe following are some general suggestions for effective communication in mathematics.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Writing Mathematics</span>"

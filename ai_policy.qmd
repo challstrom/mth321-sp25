@@ -1,0 +1,29 @@
+---
+format:
+  html: 
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+    number-sections: false
+    
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# AI Policy {#sec-ai}
+
+AI tools such as ChatGPT and others are fast becoming an intractable part of our lives.  However, there are some good reasons to limit or even avoid altogether their use.  In this class, my strong suggestion is that you should not use any AI tools whatsoever. Here are my reasons:
+
+### AI use in mathematics
+
+While computation tools have and continue to play an important role in our investigation and understanding of differential equations, I believe that current AI tools are not appropriate for doing mathematics in MTH 321.
+
+- These tools undermine your learning.  While it's possible to do many of the kinds of problems we will encounter in this course with AI tools, that's not the point.  The goal isn't to solve these problems, its to learn for yourself how to do them.
+
+- These tools are often wrong.  When used as an aid for simplifying calcualtions, AI tools are usually correct, but not always!  This is because they're not actually doing any mathematics - they're using the data they've been trained on to guess what the right answer is.   We have tools such as Mathematica (Wolfram Alpha) that actually do correct math - use those instead.
+
+### AI use in writing
+
+While AI tools might seem like a harmless way to "improve" your writing, I suggest that's not actually the case.  AI will make your writing sound like everyone else, which is to say - not you!  Particularly in this class, the goal of any writing you do, whether it's explaining your solution to a problem, or describing your reflection on your learning, is to express yourself **in your own voice**.

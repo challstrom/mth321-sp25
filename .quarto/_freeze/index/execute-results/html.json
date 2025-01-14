@@ -1,0 +1,15 @@
+{
+  "hash": "4356e3ce577d8a30136966097f32196f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Welcome!\"\n---\n\n\n# Welcome! {.unnumbered}\n\nBefore we get into the details of the course, I want to share with you a few thoughts about my general approach to teaching and learning.  My main goal as the professor in this course is to help you succeed, not just in learning the material but in growing as a learner.  Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback.; my job is to create an environment in which all of you are supported in these aspects.\n\nI am looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging.  I want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise.   If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.  Other resources for support include the Chair of the Math Department or the CAS Dean of Students.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n::: red\nhere is a thing\n\nwith a border\n\nwhat else?\n:::\n\n\\begin{tcolorbox}[colback=blue!7!white, before = \\vspace{\\baselineskip}]\n\\section{General Course Information}\n\nis this included in the html output at all?  it seems not!\n\\end{tcolorbox}\n\n\n::: {.cell}\n\n```{.css .cell-code}\n.red {\nborder: 3px solid blue;\nborder-color: red\n}\n```\n\n\n<style type=\"text/css\">\n.red {\nborder: 3px solid blue;\nborder-color: red\n}\n</style>\n:::\n\n\n## Another section!\n\ncheck it out\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

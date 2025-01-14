@@ -1,0 +1,174 @@
+---
+title: "Syllabus"
+format:
+  html: 
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+    number-sections: true
+    number-depth: 3
+    
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+## Welcome! {.unnumbered}
+
+Before we get into the details of the course, I want to share with you a few thoughts about my general approach to teaching and learning. My main goal as the professor in this course is to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback.; my job is to create an environment in which all of you are supported in these aspects.
+
+I am looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately. Other resources for support include the Chair of the Math Department or the CAS Dean of Students.
+
+Much of the work for this course will be done within class or small group discussions for which we will rely on everyone in this class as a source for feedback and support. Because of this, it's incredibly important to me that we create an inclusive community that is respectful of our differences and offers space for the boundary-setting necessary for positive relationships to form. Our diversity is reflected by differences in race, gender, sexuality, ability, class, religion, nationality, and other cultural identities and material circumstances.
+
+## Course Description
+
+This course introduces the basic techniques and theory of ordinary differential equations, especially as related to problems in the physical sciences. It is aimed at math, engineering, and science majors that have taken the first two semesters of calculus.
+
+Specific topics will include qualitative and analytic techniques for first and second order linear equations, separable equations, systems of linear equations, and Laplace transform methods. Other topics may be covered as time allows. A detailed list of learning objectives appears at the end of this document.
+
+In addition to these specific topics, our learning goals also include: communicating effectively about course content and solution methods; persistence in solving challenging, multi-step problems; and developing a practice of reflection on one's own learning. Certain affective traits (i.e., dispositions and habits that are useful for all learners, regardless of topic) are also valued, such as persistence and growth mindset, and the development of these qualities will be fostered by the course.
+
+## Student Support
+
+It is my experience that much of your learning in this course will occur outside of class. You might get stuck on a homework problem or perhaps you have a question from class that did not get fully resolved. For these reasons, it's important that you know how to get help outside of class. Here are a few resources:
+
+### Drop-In Hours
+
+I have set aside the following specific times during the week that I am available for drop-in help. You do not need to let me know you're coming -- just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions!
+
+-   Mon, Wed 10-11 and 1:30-2:30
+-   Tue, Thurs 10-11
+
+**Note** I'm choosing these times before the semester begins, so it's quite possible we will need to adjust these if needed. I will keep an up-to-date schedule on the course Moodle page.
+
+### Sign-Up
+
+I recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you simply might find it more convenient to meet with me at a different time. If you go to my [Calendly scheduler](https://calendly.com/hallstro), you can sign-up for a time slot to meet, either in person or via zoom. If there is a specific time that works for you and you don't see it available on the Calendly scheduler, please reach out to me via email and we will find a time that works for your schedule.
+
+### Open Door
+
+I have the scheduled drop-in hours simply to give you some times when you know that I'll be available -- but you are **always** welcome to stop by my office **at any time**. Unless I'm in class or in a meeting, I will generally be available to meet with you.
+
+### Math Resource Center
+
+The MRC offers both drop-in tutoring as well as individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). You can also find information about the MRC (and other resources at the Learning Commons) at [this link](https://bit.ly/learning-up)
+
+## Course Structure
+
+In broad strokes, this course is designed to engage you with rich problems in a collaborative setting. In class, we will often work in small groups on activities designed to engage and practice working with the course content. Outside of class, you will have homework to practice what we've learned and to stretch your problem solving skills. You will also be asked to reflect on your learning -- mathematics is as much about the problem solving process as it is about finding a correct answer and so reflecting and writing about your work is an important part of what we'll do.
+
+### Attendence
+
+Since we will be doing much of our learning through collaborative in-class activities, it's important that you to come to class prepared to engage and participate. However, I also recognize that for many reasons, this will not always be possible. If you need to miss class \textbf{for any reason} that's fine -- there is no penalty apart from missing out on that day's activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.
+
+I will do my best to post a short summary of what we do in-class on Moodle, so if you do miss class, you can always check in there to see what we did that day. You may also find it helpful if you're able to check-in with a classmate to see what we covered and I'm always available in office hours to discuss anything you missed. Finally, if we have a quiz on a day that you are absent, you will always be able to make it up.
+
+### Text and Technology
+
+*Ordinary Differential Equations: A Primer on Dynamics and Systems, v. 2.3*, by C. Hallstrom. This text is posted on our class Moodle page.
+
+Some of the work we will do in this class will require the use of technology such as a graphing calculators or dynamic graphing software such as [Desmos](\href%7Bhttp:www.desmos.com). If you have questions about how to use any of these tools, please let me know. If you do use technology on homework, please indicate this in your written solutions.
+
+### Due Dates and Extensions
+
+Just like in the "real world", due dates in this class exist and are important but there's usually a certain amount of flexibility. Life happens and sometimes circumstances may prevent you from completing an assignment on time. Or maybe you simply want a little more time to finish. For these reasons, you can (almost) always request an extension -- just send me an email. Note that if you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.
+
+That said, there are good reasons to have due dates. For one, they help you organize your life by helping you know how to budget your time. For another, they help me organize my life -- in particular, they help me keep up on getting your work back to you. If you hand in work after the due date, I cannot guarantee that I will get it back to you with useful feedback.
+
+#### Hard Deadlines
+
+To prevent work from backing up, there are two **hard** deadlines in this course - one is February 28th (the Friday before spring break) and the other is May 2nd (the last day of classes). Late work will not be accepeted after those dates, except by prior arrangment.
+
+### Weekly Homework
+
+Most weeks I will assign a problem set that gives you a chance to engage with and practice using the concepts introduced in class. These problems serve several purposes. First, they give you an opportunity to practice applying the concepts and techniques we see in class to help you work toward gaining proficiency in the course learning targets.
+
+Homework is also an opportunity to practice communicating your understanding to others. Your goal when writing up a solution is not just to find an answer, but to convince your reader that your solution is reasonable. As such, you should strive to write clearly, legibly, and (whenever appropriate) in complete sentences. If your reader can't follow your reasoning, or read your writing, then you have not done your job.
+
+-   Homework Reports
+
+    Homework is a place to be challenged, make mistakes, struggle productively, and learn how to proceed in the face of uncertainty. Overall, the benefit of homework lies as much in the process as it does in producing a correct answer. For this reason, weekly homework will not be graded in the traditional sense. Instead of handing in solutions to all of the homework problems, you will submit a **homework report** which should include:
+
+    1.  a list of problems that you attempted of what
+    2.  a short description of questions that came up for you while you worked on the homework.
+
+### Application and Extension Problems (AEP)
+
+In addition to regular weekly homework, I will also periodically assign Application/Extension Problems. These will be more challenging or longer multi-step problems designed to give you a chance to think more deeply about concepts and applications and to practice your problem solving skills. Sometimes they will look at applications of material we have covered, other times they may delve more deeply into theory that we've seen in class; they may even introduce new material that is not covered in class. The AEPs will require more extensive writing to clearly communicate your work.
+
+AEPs problems will generally be due two weeks from when they are assigned. If you would like to revise your work after getting feedback, you may resubmit your work within one week. Revised papers should be a complete rewrite - do not simply squeeze corrections into the margin of your original paper. You should also include a short summary of your revisions, i.e. tell me what you've done to address my feedback or any other changes that you made.
+
+Your AEPs can be used at the end of the semester as evidence of a deeper understanding of the topics from the course.
+
+### Check-Ins (Quizzes)
+
+Your progress in this course will be measured primarily by demonstrating proficiency on specific learning targets that correspond to the main topics covered in the course. We will have regular short in-class check-ins (roughly one per week) throughout the semester which are opportunities for you to demonstrate your knowledge and understanding of these topics. A list of these topics can be found at the end of this document and is also posted on Moodle.
+
+Typically, each check-in will have a few problems that cover the Learning Targets that we've covered most recently. Each learning target will appear on an in-class check-in at least twice.
+
+Your progress on each Learning Target will be described in one of the following ways:
+
+-   **Proficient**\
+    You have demonstrated good understanding of this topic without any errors.
+
+-   **Minor Revisions Needed**\
+    You have demonstrated a fairly complete understanding of this learning target but your work contains either minor errors or a small gap in your explanation.
+
+    To change this to *Proficient* you should submit a revised solution, along with a short description of what the error/gap was and how you corrected it. Write your revision on a new piece of paper and staple that on top of your original submission. This revision must be submitted within one week.
+
+-   **Not Yet Proficient**\
+    Partial understanding is evident, but significant gaps remain. Further study is needed.
+
+-   **Incomplete**\
+    Fragmentary response provided; or solution is attempted using inappropriate methodology.
+
+### Re-assessments
+
+Each content learning target will appear on at least two in-class check-ins, so if you aren't able to demonstrate proficiency the first time it appears, you will have another chance to re-assess on another week. In addition to our weekly check-ins, there are a few other ways that you can demonstrate proficiency:
+
+-   You may do a re-assessment during drop-in hours. Note that during drop-in hours, I will prioritize students with questions. You should let me know in advance which Learning Target you want to re-assess (so that I'm prepared) and you must bring a re-assessment ticket with you (see below).
+-   You may schedule a re-assessment to be done in office hours using my [Calendly link](http://calendly/hallstro). A re-assessment ticket is required.
+-   There will be one mid-semester check-in and one final check-in which will include all learning targets covered up to that point.\
+-   You may prepare, present, and defend an argument that you have demonstrated proficiency in a learning target through one of your previously submitted AEP or written homework solutions.
+
+Finally, please note the following restrictions on re-assessing:
+
+-   You may not attempt more than two (2) re-assessments outside of class for a particular learning target.\
+-   You may not attempt to re-assess more than one learning target at a time. Exceptions to this may be made in certain cases where Learning Targets are closely aligned.
+-   No re-assessments, other than the final check-in, will be given during finals week.
+
+#### Re-assessment Ticket
+
+If you are reassessing a learning target outside of class, you must submit written responses to the following questions at the time of your reassessment:
+
+1.  What were your mistakes/gaps/sticking points on your previous attempt?
+2.  What steps did you take to improve your understanding? List any resources you used to study and prepare for this attempt.
+
+## Assessment
+
+The AEPs will be marked as follows:
+
+\begin{itemize}
+\item [E] Excellent.  This work exceeds the expectations of the assignment.  Solid understanding of concepts is evident and there are no or very few errors. Communication is clear and compete and there is little need for further editing.  
+\item [S] Satisfactory.  Understanding of concepts is evident through correct work and clear explanations, but there may be some minor gaps or errors in either the mathematics or the exposition.   This would benefit from further editing and revision.  
+\item [R] Needs Revision.  Partial understanding of the concepts is evident, but significant gaps/errors remain or explanations are not complete.  Needs further work, more review, and/or improved explanations.     
+\item [I] Incomplete.  Not enough information is present in the work to determine whether there is understanding of the concept.  The work is fragmentary or contains significant omissions.  Or, there are too many issues to justify correcting each one.
+\end{itemize}
+
+Any paper that earns an S or an R may be revised and resubmitted within one week of it being returned. Your revised paper should be a complete revision - don't simply squeeze corrections into your margin of your original paper. You should also include a short summary of your revisions, i.e. tell me what you've done to address my feedback or any other changes that you made.
+
+## Mathematical Practice
+
+In addition to the content related learning targets described above, there are three learning targets related to the development of your Mathematical Practice. Evidence of proficiency in learning targets \textbf{M1} and \textbf{M2} can be demonstrated by submitting \textbf{two} examples of your work that exemplify a particular practice (two per practice). These examples can be selected from the AEPs or they may be problems of your own choosing (including written homework). In this later case, you must consult with me to make sure the problems are appropriate. % %Proficiency in Mathematical Practice \textbf{M3} may be demonstrated through regular completion of the journal prompts that I will post on Moodle throughout the semester.
+
+## Final Check-In
+
+Our final will consist of two parts. The first is an in-class check-in to give you one last opportunity to re-assess any learning targets that are still outstanding. This is scheduled for:
+
+-   Wednesday, April 30th, 1:30pm-3:30pm.
+
+This date and time are set by the registrar's office and is not subject to change. Note that this final check-in is no different than previous in-class check-ins except that it will include all learning targets that we've covered. In particular, if you have already earned all the Proficiencies that you need/want, you do not need to attend this final check-in.
+
+The second part is not optional will consist of a course refection and "big picture" questions that will allow you to reflect on and synthesize some of the main themes of the course. This part will be available on Moodle to be completed anytime during finals week.

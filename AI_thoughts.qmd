@@ -1,0 +1,98 @@
+---
+title: "Course at a Glance"
+format: 
+  html:
+    number-sections: false
+    toc-title: "On this page"
+editor: visual
+---
+
+### Class Schedule
+
+Tue-Thu, 9:45-11:10 <br> DB 230
+
+### Instructor Info
+
+Chris Hallstrom, PhD (he/him). My office is Buckley Center 270.
+
+-   [hallstro\@up.edu](mailto:hallstro@up.edu)
+
+    Email is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.
+
+-   Zoom
+
+    In addition to stopping by my office for questions, I can also be available, **by prior arrangement**, via zoom. Here is [my zoom link](https://uportland.zoom.us/j/4098263199). The easiest way to set up a zoom meeting is to use my Calendly link (see below).
+
+-   Calendly
+
+    To schedule a meeting (in-person or virtual), you can use my [Calendly scheduluer](https://calendly.com/hallstro). If you would like to meet at time that you don't see available on Calendly, please feel free to check with me via email!
+
+### Syllabus and Class Materials
+
+Additional course information can be found on this webpage as well as [our class Moodle page](https://learning.up.edu). All course materials and assignments will be posted on [Moodle](https://learning.up.edu).
+
+### Text
+
+Instead of a standard textbook, we will primarily use a set of materials designed to introduce and explore differential equations using an inquiry-based approach. I will provide these materials as needed, but if you're curious, you can find them here: [Inquiry-Oriented Differential Equations (IODE)](https://iode.sdsu.edu/).
+
+That said, we will use the text *Ordinary Differential Equations: A Primer on Dynamics and Systems, v. 2.3*, by C. Hallstrom as a supplimental resource as needed. This text is posted on our class Moodle page.
+
+### Technology
+
+Some of the work we will do in this class will require the use of technology such as a graphing calculators or dynamic graphing software such as [Desmos](http:www.desmos.com). I highly recommend that you create a (free) Desmos account so that you can save your work. If you have questions about how to use any of these tools, please let me know. If you do use technology on homework, please indicate this in your written solutions.
+
+#### A word on search engines
+Search engines (Google, DuckDuckGo, etc) use algorithms to determine what content on the internet is likely to be relevant to your search query. They can be useful for finding references, explanations, solutions, etc.  They cannot find information that is not on the internet, and search results may be affected by hidden parameters introduced by the companies that run them.  Whether this content actually is relevant (or correct) is up to you to figure out. 
+
+#### A word on GenAI
+AI text generators (ChatGPT, Coilot, Gemini, etc.) use Large Language Models (LLMs) to produce text that is likely to resemble a human-produced response to a given prompt. They are most likely to produce a meaningful output on topics where a great deal of human-produced text has already been written -- which happens to include most of undergraduate mathematics. However, the output is based on statistical predictions from contextual clues, not logical deductions or expert knowledge.
+
+My general feeling about the use of AI tools in the context of this course is that they fundamentally get in the way of your learning in several ways:
+
+-   They are prone to both plagiarizing as well as making things up. Since their responses are produced from an amalgamation of many sources, they invariably use definitions, assumptions, and concepts that we have not introduced in our class.
+
+-  Using AI tools undermines the collaborative learning community that we would like to develop.
+
+-   Using AI tools means that you are cheating yourself out of an opportunity to learn. The whole point of being in this class is to learn how to use certain ideas and tools to solve problems.  Note that I didn't say that the point is to solve problems. This is a very much like the difference between taking your car to a mechanic vs. learning how to fix it yourself.  Or going to a restaurant vs. learning how to cook.
+
+- Using AI tools undermines the relationship between student and instructor. When a student gives me work that seems AI generated, it creates an adversarial dynamic and now I'm looking at everything that student gives me with suspicion. If you ever feel tempted to shortcut your learning in this way, please pause and come talk to me about finding a different strategy.
+
+- Apart from using AI tools to do mathematics, students sometimes use them to help with writing (and here I'm also thinking of tools like Grammerly).  Here's a secret – they don't actually help! AI-assisted writing is bad writing, period.  It might be gramatically "correct" but that's not the same thing as good writing.  Good writing involves actual thinking by a unique individual person.
+
+So where does that leave us? I really do not want to lay down a policy of "THOU SHALL NOT..." because I'd much rather trust you. So that's what I'll do - you now know how I feel about using AI tools in this class and I will trust that you respect me and our goals for being here together enough that you'll honor that trust.
+
+
+
+#### Nate Holdren
+
+So don’t use AI for anything in this class. I will add, if at any point you feel tempted to use AI in this class, that’s because you’re in a bad spot where something has gone wrong and you’re worried about how to get out of that bad spot. If you find yourself in a bad spot like that, I’m very happy to work with you to resolve the situation, just come talk to me. (I got into bad spots repeatedly in college myself so I get it and I’m not judgmental - really!) Because I want you to understand where I’m coming from here, I’ve written out my thinking on these matters at more length. In my view there are at least five problems with AI technology like ChatGPT right now:
+
+1.  AI-assisted writing is simply bad writing. The technology is basically a form of linguistic averaging: it produces average (ie, mediocre) writing with no distinguishing elements, writing that could have been by anyone at all. That’s bad writing because what makes for good writing is that it involves actual thinking by a unique individual person.
+2.  The technology is prone to making up false things and to plagiarizing, both of which can get you in huge trouble in some contexts. (I know of two lawyers who used ChatGPT and were publicly punished for this in ways that hurt their law firm, their reputations, and as a result their careers.)
+3.  Being a student in a class where another student uses AI on an assignment is unpleasant in multiple ways – it’s embarrassing, boring, disappointing, frustrating, and more. AI use in a class is an antisocial act that lets down the community of the classroom and worsens others’ experience.
+4.  Most important to me personally, AI used on writing assignments in an educational setting prevents learning. The point of the writing in my classes is to enrich your learning the skills and concepts the class works with. Writing and reading the kinds of texts we work with here are skills like any other, like weightlifting or playing piano or learning a foreign language. They’re learned by practice. Using AI to help you in a class is like having someone else go to the gym/piano lessons/language class for you – it saves you time but by doing so it prevents you from learning, because spending the time doing the activity is what creates the learning benefit.
+5.  Of almost equal importance to me, AI encourages an adversarial relationship between instructors and students. (For this reason I have previously hesitated to explicitly address the matter of AI usage, but I’ve decided it’s important that we speak honestly about this with each other.) Students using AI want to get away with it. Professors worried about AI use look at students with suspicion. I don’t want any of that in my classroom. It’s unpleasant, and more importantly, an education setting characterized by distrust impedes everyone’s learning. With that in mind, I have decided to simply trust you. I trust that you understand why using AI for this class is a mistake, so you won’t use AI in this class, and I assume that you respect me enough to honor this trust. (I’ll add that if one or two people abuse this trust and get away with it, I will live with that – I would rather trust 98 honest people and be fooled by two liars than treat 98 honest people with suspicion in order to catch 2 liars.) With that in mind, please do try to assume that I really do trust your intellectual integrity here, because I really do! I’m on your team. Now back to the calendar.
+
+#### blair @blairaf.com
+
+To promote your learning and the development of your own personal writing abilities and intellectual abilities in this course – as well as to reduce your risk of accidentally committing plagiarism – you should not use generative AI applications while working on assignments in this course. Text-generating applications are likely to generate untrue or mis-attributed claims, and in some cases, to regurgitate exact text from a training data source without attributing the source of the text (i.e., plagiarism). We will cover these and other ethical concerns associated with generative AI in class.
+
+Some students may find that they benefit from using generative AI to support brainstorming, outlining, translation, or personal accessibility. In such cases, students are strongly advised to remain mindful of the ethical and practical concerns associated with using generative AI and mindful of the resources provided in the above section on "Academic Integrity." You are wholly responsible for assuring the quality and integrity of any assignments you submit in this course.
+
+#### Bagley
+
+Dont cheat, and don't plagerize, becuase you won't learn anything. - Copy-pasting from the internet, including ChatGPT etc is cheating. Don't do it. - Making your own work available on the internet is also cheating. Don't do it. - Work together, do your own work. - Copying from each other is cheating, and letting others copy from you is also cheating. Don't do either of these things. - Respect each other.
+
+#### Bowman
+
+Appropriate use of technology as tools.
+
+
+
+
+
+> *A student asked his Zen master how long it would take to reach enlightenment.  “Ten years,” the master said.  But, the student persisted, what if he studied very hard?  “Then 20 years,” the master responded.  Surprised, the student asked how long it would take if he worked very, very hard and became the most dedicated student in the Ashram.  “In that case, 30 years,” the master replied.  His explanation:  “If you have one eye on how close you are to achieving your goal, that leaves only one eye for your task.”*
+
+## Thoughts on AI
+
+

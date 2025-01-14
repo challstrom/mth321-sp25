@@ -1,0 +1,55 @@
+---
+format:
+  html: 
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+    number-sections: true
+    
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Writing Mathematics {#sec-writing}
+
+One of the goals of this course is to hone your skill in communicating complex technical ideas, particularly in writing. Your aim is not simply to come up with a correct solution, but you must also convince someone else that you know what you're talking about!
+
+A good solution is one that effectively communicates not only the mathematical ideas needed, but an explanation of how you got there. Like any piece of writing, you should expect to write, proofread, and edit multiple drafts of your work.
+
+## General Guidelines
+
+The following are some general suggestions for effective communication in mathematics.
+
+-   Write using complete sentences. In particular, all mathematical notation and expressions should be part of a sentence. You can tell that you've done this adequately if you can read what you've written aloud - verbatim - and it makes sense.
+
+-   Don't rely on symbols and notations alone, use words to explain how you're getting from one step to the next.
+
+-   Think about who your audience is and include an appropriate amount of detail. Your reader should be convinced that your solution is correct without having to fill in any missing steps.
+
+-   Respect your reader. This means that your solution should clear, easy to read, and free of spelling and grammatical errors, even if the mathematical steps are correct. Don't ask them to put in more work than necessary to understand your solution!
+
+-   You should first work out the solutions on scratch paper and then neatly write up your solutions. Do not hand in your scratch paper.
+
+## Specific Instructions
+
+Here are some specific instructions regarding how you should submit your work.
+
+-   Papers with multiple pages should be stapled in the upper left hand corner. If your paper has been torn out of a spiral notebook, remove the fringes.
+
+-   Writing should be neat, legible, and not too small. If your handwriting is not up to the task, you might consider using a typesetting enviornment such as LaTeX or Typst. I can help you get started with these tools.
+
+-   Include your name, the date, the class and section number, and the name of the assignment.
+
+-   Problems should be clearly labeled and numbered on the left side of the paper. Leave a visible separation between problems. Write the problems in order.
+
+-   Begin your solution with the original problem statement (or a paraphrasing of such). Do not assume that your reader has the problem statement in front of them.
+
+-   Use whitespace on the margins and between problems to make your solutions easier to read. Leave room in the margins for comments.
+
+-   If you worked with other students on a problem, acknowledge their contributions.
+
+-   If you used technology on a problem, acknowledge where and how.
+
+-   Assignments submitted electronically should be submitted as a single PDF file. If scanned, make sure your images are clear and not cropped. Take care that pages are in the correct order and are rotated to the proper orientation. File names should include some identifying information such as your last name and what assignment this is (imagine this file in a folder with submissions from other students).

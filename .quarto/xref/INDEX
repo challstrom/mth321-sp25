@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "fbe5902d",
+    "index.tex": "db53d4a8"
+  },
+  "about.qmd": {
+    "about.html": "cfdf37dd"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "efe35d66",
+    "syllabus.tex": "744e8886"
+  },
+  "writing.qmd": {
+    "writing.html": "ec8f895c",
+    "writing.tex": "0b292472"
+  },
+  "faq.qmd": {
+    "faq.html": "21e6adcf"
+  },
+  "glance.qmd": {
+    "glance.html": "91e38120"
+  },
+  "support.qmd": {
+    "support.html": "dca81f8a"
+  },
+  "structure.qmd": {
+    "structure.html": "f388e31f"
+  },
+  "grades.qmd": {
+    "grades.html": "05a9f0b4"
+  },
+  "UPElements.qmd": {
+    "UPElements.html": "cd3adfe8"
+  }
+}

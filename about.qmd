@@ -1,0 +1,70 @@
+---
+title: "Course Content"
+format: 
+  html:
+    number-sections: false
+    toc-title: "On this page"
+editor: visual
+---
+
+MTH 321 introduces basic techniques and theory of ordinary differential equations, especially as related to problems in the physical sciences. It is aimed at math, engineering, and science majors that have taken the first two semesters of calculus.
+
+Specific topics will include
+
+-   qualitative and analytic techniques for first and second order linear equations
+-   separable equations
+-   systems of linear equations
+-   Laplace transform methods.
+
+Other topics may be covered as time allows.
+
+In addition to these specific *mathematical* topics, our learning goals also include:
+
+-   communicating mathematics effectively
+-   developing strategies for solving challenging, multi-step problems
+-   developing a practice of self-reflection on one's own learning.
+
+Certain affective traits (i.e., dispositions and habits that are useful for all learners, regardless of topic) are also valued, such as persistence and growth mindset, and the development of these qualities will be fostered by the course.
+
+## Learning Targets {#sec-targets}
+
+**MTH** :: Mathematical Practice 
+
+a) I can effectively communicate understanding of course content and solution methods.
+a) I can demonstrate perseverance in solving complex problems.
+a) I can reflect on my own learning practices.
+
+
+
+**DE** :: Basic Concepts of Differential Equations
+
+a)  I can demonstrate an understanding of the concept of a solution to a differential equation, including the distinction between a general solution and a particular solution.
+a) I can find equilibria of first order autonomous equations and analyze their stability using a variety of methods. 
+a) I can find bifurcation values and use bifurcation diagrams to describe how a system depends on a parameter.
+a) I can use slope fields or other graphical methods to analyze and describe the behavior of solutions to first order equations.
+a) I can use differential equations to build and/or analyze models of physical phenomenon. 
+
+
+
+**FO :: Solving First-Order Equations **
+
+a) I can solve first-order equations using separation of variables
+a) I can solve first-order linear equations using other analytic methods such as variation of parameters or undetermined coefficients.
+
+**SE :: Systems of Equations**
+
+a) I can  determine equilibria and analyze behavior of system of equations using nullclines and/or phase planes.
+a) I can  find eigenvalues of a two-dimensional linear system and use them to construct phase planes and to describe the qualitative behavior of solutions.
+a) I can find explicit solutions to two-dimensional linear systems
+
+
+**SO :: Second-Order Equations **
+
+a) I can find the general solution to 2nd order linear equations with constant coefficients.
+a)  I can  describe how parameters affect the behavior of solutions to mass-spring equation.
+
+**LT :: Laplace Transform Methods **
+
+a) I can apply the definition and basic properties of the Laplace transform.
+a) I can use the Laplace transform to solve or analyze differential equations involving Heaviside functions.
+a) I can use the Laplace transform to solve or analyze differential equations involving impulse forcing.

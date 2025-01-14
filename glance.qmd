@@ -1,0 +1,70 @@
+---
+title: "Course at a Glance"
+format: 
+  html:
+    number-sections: false
+    toc-title: "On this page"
+  pdf:
+    number-sections: true
+editor: visual
+---
+
+## Class Schedule
+
+Tue-Thu, 9:45-11:10 <br> DB 230
+
+## Instructor Info
+
+Chris Hallstrom, PhD (he/him). My office is Buckley Center 270.
+
+-   [hallstro\@up.edu](mailto:hallstro@up.edu)
+
+    Email is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.
+
+-   Zoom
+
+    In addition to stopping by my office for questions, I can also be available, **by prior arrangement**, via zoom. Here is [my zoom link](https://uportland.zoom.us/j/4098263199). The easiest way to set up a zoom meeting is to use my Calendly link (see below).
+
+-   Calendly
+
+    To schedule a meeting (in-person or virtual), you can use my [Calendly scheduluer](https://calendly.com/hallstro). If you would like to meet at time that you don't see available on Calendly, please feel free to check with me via email!
+
+## Syllabus and Class Materials
+
+Additional course information can be found on this webpage as well as [our class Moodle page](https://learning.up.edu). All course materials and assignments will be posted on [Moodle](https://learning.up.edu).
+
+## Text
+
+Instead of a standard textbook, we will primarily use a set of materials designed to introduce and explore differential equations using an inquiry-based approach. I will provide these materials as needed, but if you're curious, you can find them here: [Inquiry-Oriented Differential Equations (IODE)](https://iode.sdsu.edu/).
+
+That said, we will use the text *Ordinary Differential Equations: A Primer on Dynamics and Systems, v. 2.3*, by C. Hallstrom as a supplimental resource as needed. This text is posted on our class Moodle page.
+
+## Technology and Other Resources
+
+Some of the work we will do in this class will require the use of technology such as a graphing calculators or dynamic graphing software such as [Desmos](http:www.desmos.com). I highly recommend that you create a (free) Desmos account so that you can save your work. If you have questions about how to use any of these tools, please let me know. If you do use technology in your work, please indicate this in your written solutions.
+
+#### A word on search engines
+
+Search engines (Google, DuckDuckGo, etc) use algorithms to determine what content on the internet is likely to be relevant to your search query. They can be useful for finding references, explanations, solutions, etc. They cannot find information that is not on the internet, and search results may be affected by hidden parameters introduced by the companies that run them. Whether this content actually is relevant (or correct) is up to you to figure out.
+
+#### A word on videos
+
+Students sometimes seek out video explanations of concepts and techniques covered in this course. While I don't object to getting help this way, you should be aware that these explanations may very well use notation, definitions, or ideas that are **not** convered in this class, sometimes for very intentional reasons!
+
+#### A word on GenAI
+
+AI text generators (ChatGPT, Copilot, Gemini, etc.) use Large Language Models (LLMs) to produce text that is likely to resemble a human-produced response to a given prompt. They are most likely to produce a meaningful output on topics where a great deal of human-produced text has already been written -- which happens to include most of undergraduate mathematics. This output, however, is based on statistical predictions from contextual clues, not logical deductions or expert knowledge and there's no guarantee that it's mathematically correct!
+
+My general feeling about the use of AI tools in the context of this course is that they fundamentally get in the way of your learning in several ways and should not be used in any capacity.
+
+-   They are prone to both plagiarizing as well as making things up. Since their responses are produced from an amalgamation of many sources (sometimes without the permission of the original authors) they invariably use definitions, notation, assumptions, and concepts that we have not introduced in our class.
+
+-   AI tools undermine the collaborative learning community that we would like to develop. A significant way in which we will be building understanding in the class is through discussion with each other.
+
+-   Using AI tools means that you are cheating yourself out of an opportunity to learn. The whole point of being in this class is to learn how to use certain ideas and tools to solve problems. Note that I didn't say that the point is to solve problems. This is a very much like the difference between taking your car to a mechanic vs. learning how to fix it yourself. Or going to a restaurant vs. learning how to cook.
+
+-   Using AI tools undermines the relationship between student and instructor. When a student gives me work that seems AI generated, it creates an adversarial dynamic and now I'm looking at everything that student gives me with suspicion. If you ever feel tempted to use AI tools to shortcut your learning, please pause and come talk to me about finding a different strategy.
+
+-   Apart from doing mathematics, students sometimes use AI tools to help with writing (and here I'm also thinking of tools like Grammerly). Here's a secret – AI-assisted writing is bad writing, period. It might be gramatically "correct" but that's not the same thing as good writing. Good writing involves actual thinking by a unique individual person.
+
+So where does that leave us? I really do not want to lay down a policy of "THOU SHALL NOT..." because I'd much rather simply trust you. So that's what I'll do - you now know how I feel about using AI tools in this class and I will trust that you will respect me, your classmates, and our goals for being here together enough that you'll honor that trust.

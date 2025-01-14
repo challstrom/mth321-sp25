@@ -1,0 +1,16 @@
+---
+title: "Welcome!"
+format:
+  html: 
+    toc: false
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+### Welcome! {.unnumbered}
+
+I'm looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.
+
+I want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.

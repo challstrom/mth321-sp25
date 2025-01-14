@@ -1,0 +1,55 @@
+---
+title: "Student Support"
+format:
+  html: 
+    number-sections: false
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+Throughout the semester, I expect that you will have questions. This might happen while doing homework or reviewing your notes, or perhaps a question came up during class that didn't get fully resolved.
+
+You might also find that you don't have a specific question but just feel generally confused or uncertain about the stuff we're doing in class. That's okay too - that's what learning is all about!
+
+For these reasons, it's important that you know how to get help outside of class.
+
+::: {.callout-tip title="Pro Tip" icon="false"}
+If you **don't** have questions, let me know that also -- the whole point of the class is to engage with the material at a deep enough level that there **should** be questions! That's how learning works!
+:::
+
+## Drop-In Hours
+
+::::: columns
+::: {.column width="30%"}
+-   Mon, Wed <br> 10:00-11:00
+
+-   Tue, Thur <br> 11:30-1:00
+:::
+
+::: {.column width="70%"}
+These are specific times that I've set aside during the week when I'm available for drop-in help. You do not need to let me know you're coming -- just show up at my office (BC 270).
+
+Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have questions.
+:::
+:::::
+
+::: callout-note
+Since I'm setting these times before the semester actually begins, these times may change if my schedule changes. If it turns out that I need to adjust them, I will let you know!
+:::
+
+## Sign-Up Hours
+
+I recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you might simply find it more convenient to meet with me at a different time. No problem! If you go to my [Calendly scheduler](https://calendly.com/hallstro), you can sign-up for a different time slot to meet, either in-person or via zoom. If there is a specific time that works for you and you don't see it available on the Calendly scheduler, please reach out to me via email and we will find a time that works for your schedule.
+
+## Open Door Policy
+
+I have the scheduled drop-in hours simply to give you some times when you know that I'll be available -- but you are **always** welcome to stop by my office **at any time**. Unless I'm in class or in a meeting, I am generally available to meet with you!
+
+## Math Resource Center
+
+The MRC offers both drop-in tutoring as well as individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). You can also find information about the MRC (and other resources at the Learning Commons) here: <https://bit.ly/learning-up>.

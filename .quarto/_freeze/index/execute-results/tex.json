@@ -1,0 +1,17 @@
+{
+  "hash": "b02875808e4868f1bdf3ff65ca9b6cb4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"mth321_sp25\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\n\n:::{.red}\nhere is a thing\n\nwith a border\n\nwhat else?\n:::\n\n\\begin{tcolorbox}[colback=blue!7!white, before = \\vspace{\\baselineskip}]\n\\section{General Course Information}\n\nis this included in the html output at all?  it seems not!\n\\end{tcolorbox}\n\n\n\n\n::: {.cell}\n\n```{.css .cell-code}\n.red {\nborder: 3px solid blue;\nborder-color: red\n}\n```\n:::\n\n\n\n\n## Another section!\n\ncheck it out\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

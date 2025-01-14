@@ -1,0 +1,109 @@
+---
+title: "Course Structure"
+format:
+  html: 
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+    number-sections: true
+    
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+In broad strokes, this course is designed to engage you with rich problems in a collaborative setting. In class, we will often work in small groups on activities designed to engage and practice working with the course content. Outside of class, you will have assignments to practice what we've learned and to stretch your problem solving skills. You will also be asked to reflect on your learning -- mathematics is as much about the problem solving process as it is about finding a correct answer and so reflecting and writing about your work is an important part of what we'll do.
+
+## Attendence
+
+Since we will be doing much of our learning through collaborative in-class activities, it's important that you to come to class prepared to engage and participate. That said, I also recognize that for many reasons, this will not always be possible. If you need to miss class \textbf{for any reason} just let me know -- there is no penalty apart from missing out on that day's activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.
+
+[Poem 013: Did I Miss Anything? by Tom Wyman](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-013/did-i-miss-anything/)
+
+I will do my best to post on Moodle a short summary of what we do in class, so if you do miss class, you should look there to see what we did that day. You may also find it helpful if you're able to check-in with a classmate to see what we covered. Finally, I'm always available in office hours to discuss anything you missed.
+
+## Weekly Homework
+
+Most weeks I will assign several problems that give you a chance to engage with and practice using the concepts introduced in class. Completing these problems will help you work toward gaining proficiency in the course learning targets.
+
+Some homework problems may feel straightforward and similiar to work done in class, while others are meant to challenge you. This means that you might not see how to begin a problem right away. This is intentional! If, after thinking about a problem for day or so, you're still stuck, let me know and I can give you suggestions.
+
+Homework is also an opportunity to practice effective communication of your understanding. Your goal when writing up a solution is not just to find an answer, but to convince your reader that your solution is reasonable. As such, you should strive to write clearly, legibly, and (whenever appropriate) in complete sentences. If your reader can't follow your reasoning, or read your writing, then you have not achieved this goal. See the section on [Writing Mathematics](writing.qmd#sec-writing) for more hints about how to write mathematics effectively.
+
+### Homework Reports
+
+Homework is a place to be challenged, make mistakes, struggle productively, and learn how to proceed in the face of uncertainty. Overall, the benefit of homework lies as much in the *process* as it does in producing a correct answer. For this reason, weekly homework will not be graded in the traditional sense. Instead of handing in solutions to all of the homework problems, we will discuss solutions in class and you will submit a **homework report** which should include:
+
+-   a list of problems that you attempted and completed
+-   a short description of the questions that came up for you while you worked on the homework
+-   If you have solution that you would like feedback on, you may include that with your report (limit one per week). This is entirely optional.
+
+## Application and Extension Problems (AEP)
+
+In addition to regular weekly homework, I will also periodically assign Application/Extension Problems. These are more challenging or longer multi-step problems designed to give you a chance to think more deeply about concepts and to practice your problem solving skills. Sometimes they will look at applications of material we have covered, other times they may delve more deeply into theory that we've seen in class; they may even introduce new material that is not covered in class. AEP assignments will also typically require more extensive writing to clearly communicate your work.
+
+AEP assignments will generally be due **two weeks** from when they are assigned. After getting feedback on your assignment, if you would like to revise and resubmit you may do so within **one week**. Revisions should be written up separately - do not simply squeeze corrections into the margin of your original paper. You should also include a short summary of your revisions, i.e. tell me what you've done to address my feedback or any other changes that you made. Note: to be eligible to revise and resubmit, papers should make an honest effort at completion.
+
+An AEP assignment will be considered **complete** when all the feedback regarding both mathematical content as well as effective communication has been addressed.
+
+## Due Dates and Extensions
+
+Just like in the "real world", due dates in this class exist and are important but there's usually a certain amount of flexibility. Life happens and sometimes circumstances may prevent you from completing an assignment on time. Or maybe you simply want a little more time to finish. For these reasons, you can (almost) always request an extension -- just send me an email. Note that if you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.
+
+That said, there are reasons for having due dates. For one thing, they help you organize your life by helping you know how to budget your time. For another, they help me organize my life -- in particular, they help me keep up on getting your work back to you. If you hand in work after the due date, I cannot guarantee that I will get it back to you with useful feedback.
+
+### Hard Deadlines {.unnumbered}
+
+To prevent work from backing up, there are two **hard** deadlines in this course - one is February 28th (the Friday before spring break) and the other is May 2nd (the last day of classes). Late work will not be accepeted after those dates, except by prior arrangment.
+
+## Check-Ins (Quizzes)
+
+Your progress in this course will be measured primarily by demonstrating proficiency on specific learning targets that correspond to the main topics covered in the course. We will have regular short in-class check-ins (roughly one per week) throughout the semester which are opportunities for you to demonstrate your knowledge and understanding of these topics. A list of these topics can be found in @sec-targets, and is also posted on Moodle.
+
+Typically, each check-in will have a few problems that cover the Learning Targets that we've covered most recently. Each learning target will appear on an in-class check-in at least twice.
+
+Your progress on each Learning Target will be described in one of the following ways:
+
+-   **Proficient**: You have demonstrated good understanding of this topic without any errors.
+
+-   **Minor Revisions Needed**: You have demonstrated a fairly complete understanding of this learning target but your work contains either minor errors or a small gap in your explanation.
+
+    To change this to *Proficient* you should submit a revised solution, along with a short description of what the error/gap was and how you corrected it. Write your revision on a new piece of paper and staple that on top of your original submission. This revision must be submitted within **one week**.
+
+-   **Not Yet Proficient**: Partial understanding is evident, but gaps still remain indicating that further study is needed.
+
+-   **Incomplete**: Fragmentary response provided; or solution is attempted using inappropriate methodology.
+
+### Re-assessments
+
+Each content learning target will appear on at least two in-class check-ins, so if you aren't able to demonstrate proficiency the first time it appears, you will have another chance to re-assess on another week. In addition to our weekly check-ins, there are a few other ways that you can demonstrate proficiency:
+
+-   You may do a re-assessment during drop-in hours - note that during drop-in hours, I will prioritize students who are there with questions. You should let me know in advance which Learning Target you want to re-assess (so that I'm prepared) and you must bring a re-assessment ticket with you (see below).
+-   You may schedule a re-assessment using my [Calendly link](http://calendly/hallstro).
+-   There will be one mid-semester check-in and one final check-in which will include all learning targets covered up to that point.
+
+Finally, please note the following restrictions on re-assessing:
+
+-   You may not attempt more than two (2) re-assessments outside of class for a particular learning target. This does not include the mid-semester or final check-in.
+-   You may not attempt to re-assess more than one learning target at a time. Exceptions to this may be made in certain cases where Learning Targets are closely aligned.
+-   No re-assessments, other than the final check-in, will be given during finals week.
+
+### Re-assessment Ticket
+
+If you are reassessing a learning target outside of class, you must submit written responses, on a separate piece of paper, to the following questions at the time of your reassessment:
+
+1.  What were your mistakes/gaps/sticking points on your previous attempt?
+2.  What steps did you take to improve your understanding? Did you re-do the problem? List any resources you used to study and prepare for this attempt.
+
+## Mid-Semester and Final Check-Ins
+
+There will be a mid-semester check-in on February 27th. This is no different from our prior check-ins except that there will be problems covering every learning target that we've covered up to that point.
+
+We will also have a final check-in to give you one last opportunity to re-assess any learning targets. This is scheduled for:
+
+-   Wednesday, April 30th, 1:30pm-3:30pm.
+
+Again, this final check-in is no different than previous in-class check-ins except that it will include all learning targets that we've covered. In particular, if you have already earned all the Proficiencies that you need/want, you do not need to attend this final check-in.
+
+In addition to this in-class check-in, a final reflection assignment will be posted on Moodle to be completed by Thursday, May 1st.

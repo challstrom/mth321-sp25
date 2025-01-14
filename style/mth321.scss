@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900';
+@import 'https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900';
+@import 'https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap';
+
+$font-family: "Roboto", sans-serif;
+/*
+$link-color: #B5C18E;
+$hover-color: lighten($link-color, 80%);
+*/
+
+/*-- scss:rules --*/
+
+
+/*
+a{
+  color: $link-color;
+  text-decoration: none;
+  
+  &:hover{
+    color: $hover-color;
+    border-bottom: 1px solid $hover-color;
+  }
+  
+}
+*/
+
+/* h3{ background-color: #B53185;} */
+
+.project {
+  padding: 1em;
+  border: 1pt dotted #5d6d74;
+  margin-bottom: 15px;
+}
+
+div.sidebar-item-container .active, div.sidebar-item-container .show>.nav-link, div.sidebar-item-container .sidebar-link>code {
+  font-weight: bold;
+}
